@@ -37,7 +37,7 @@ Este challenge se basa en una API REST para poder hacer cons CRUD a los tópicos
 
 ## Imagen del Proyecto
 
-![Menú Interactivo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg)
+![Menú Interactivo](https://raw.githubusercontent.com/edy-git/foro-hub/main/img/01-portada.png)
 
 ---
 
